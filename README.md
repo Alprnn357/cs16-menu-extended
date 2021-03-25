@@ -1,5 +1,6 @@
 # CS 1.6 Menu Extended For CS16Client Android
 Features:
+- Re-designed Team and Buy Menu
 - Big VGUI Buttons
 - Easy to use
 - Scoreboard in Team Menu
