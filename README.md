@@ -9,6 +9,6 @@ Features:
 # Installation
 - Put the downloaded .pak file to your cstrike folder (game data).
 # Links
-Video preview: Soon...
+Video preview: [YouTube](https://youtu.be/v_zggVeKDpI)
 
 Download: [Releases](https://github.com/Alprnn357/cs16-menu-extended/releases)
