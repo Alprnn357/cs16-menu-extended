@@ -7,7 +7,7 @@ Features:
 - All weapons with prices
 - Supports custom color for buttons & texts
 - Two different types of buy and team menus (classic and extended ones)
-- Support Zombie Scenario game mode from CSMoE (Scoreboard drops behind in Team menu due to some changes in CSMoE).
+- Support Zombie Scenario game mode for CSMoE
 # Installation
 - Download the latest .pak file from Releases section.
 - Put the .pak file to your game data folder. (Ex: /sdcard/xash/cstrike)
@@ -20,6 +20,6 @@ Features:
 - Try to create a new folder named "custom" in the same folder then move the .pak file into it (This method is recommended)
 - Still same? Maybe you should check the path (which configs, game saves, etc. are stored) in the Xash3D App.
 # Links
-Video preview: [YouTube](https://youtu.be/v_zggVeKDpI)
+Video preview: [YouTube](https://youtu.be/dHLPp1baNG4)
 
 Download: [Releases](https://github.com/Alprnn357/cs16-menu-extended/releases)
