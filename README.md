@@ -25,4 +25,4 @@ Video preview: [YouTube](https://youtu.be/dHLPp1baNG4)
 Download: [Releases](https://github.com/Alprnn357/cs16-menu-extended/releases)
 
  
-The material icons which are used in the .pak file are available under the Apache License 2.0
+The material icons which are used in the .pak file are available under the [Apache License 2.0](https://github.com/Alprnn357/cs16-menu-extended/blob/main/LICENSE.md)
