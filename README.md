@@ -28,5 +28,4 @@ Video preview: [YouTube](https://youtu.be/dHLPp1baNG4)
 
 Download: [Releases](https://github.com/Alprnn357/cs16-menu-extended/releases)
 # Legal Activity
-- Plase read [LEGAL.md](https://github.com/Alprnn357/cs16-menu-extended/blob/main/LEGAL.md) first if you think to share your copy of this project.
 - The material icons which are used in the .pak file are available under the [Apache License 2.0](https://github.com/Alprnn357/cs16-menu-extended/blob/main/LICENSE.md) so this menu is also completely licensed too.
